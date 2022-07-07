@@ -5,7 +5,7 @@
 STARTUP SECTION: Runs once
 """
 
-# Import require modules
+# Import required modules
 import board
 import pulseio
 import time
